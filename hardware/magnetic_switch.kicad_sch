@@ -2635,7 +2635,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x01_Socket"
+		(property "Value" "GND_IN"
 			(at 59.055 97.79 0)
 			(effects
 				(font
@@ -3115,7 +3115,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x01_Socket"
+		(property "Value" "V_OUT"
 			(at 157.48 39.3699 0)
 			(effects
 				(font
@@ -3328,7 +3328,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x01_Socket"
+		(property "Value" "GND_OUT"
 			(at 157.48 101.5999 0)
 			(effects
 				(font
@@ -3609,7 +3609,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x01_Socket"
+		(property "Value" "V_IN"
 			(at 59.055 35.56 0)
 			(effects
 				(font
