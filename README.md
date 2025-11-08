@@ -2,7 +2,7 @@
 
 ![Render of SimpleSwitch](https://github.com/miket6000/SimpleSwitch/blob/main/docs/SimpleSwitch.png?raw=true)
 
-SimpleSwitch is a magneticly operated electronic switch designed for model rocketry. It is a 15x10mm PCB with an input and output capable of switching approximately 4A continuous and 10A for 10s.
+SimpleSwitch is a magneticly operated electronic switch designed for model rocketry. It is a 15x10mm PCB with an input and output capable of switching approximately 4A continuous and 10A for 10s. It can accept an input voltage of up to 12V and also includes reverse polarity protection to prevent damage to the switch or downstream electronics in the event that the battery is accidentally connected backwards.
 
 It is designed specifically to be easy to turn on, but to require multiple steps to turn off. This is to prevent issues with accidental turn off which can occur with traditional magnetic switches when they pass by magnatized hardware on launch towers/rails.
 
