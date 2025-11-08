@@ -16,10 +16,10 @@ To turn off the switch you nead to put a North pole near the switch which will c
 
 In summary as you alernate South-\>North-\>South-\>North you step through the states as shown below:
 
-| State Name  | Red LED | Green LED | Switch State |
-|-------------|---------|-----------|--------------|
-| OFF         | OFF     | OFF       | OFF          |
-| ON          | ON      | ON        | ON           |
-| OK          | OFF     | ON        | ON           |
-| WARNING     | ON      | OFF       | ON           |
-| OFF         | OFF     | OFF       | OFF          |
+| Magnetic Pole | State Name  | Red LED | Green LED | Switch State |
+|---------------|-------------|---------|-----------|--------------|
+|               | OFF         | OFF     | OFF       | OFF          |
+| SOUTH         | ON          | ON      | ON        | ON           |
+| NORTH         | OK          | OFF     | ON        | ON           |
+| SOUTH         | WARNING     | ON      | OFF       | ON           |
+| NORTH         | OFF         | OFF     | OFF       | OFF          |
